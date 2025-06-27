@@ -1,0 +1,4 @@
+# Ignore .history directory (VSCode/extension/project history)
+.history/
+
+# Add more ignored files and directories below as needed
